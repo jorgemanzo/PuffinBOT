@@ -1,0 +1,26 @@
+{
+  "name": "PuffinBOT",
+  "version": "1.0.0",
+  "description": "A discord JS bot I made because idk why you gotta ask me so many questions uvu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgemanzo/PuffinBOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgemanzo/PuffinBOT/issues"
+  },
+  "homepage": "https://github.com/jorgemanzo/PuffinBOT#readme",
+  "dependencies": {
+    "cities": "^1.1.2",
+    "discord.js": "^11.3.2",
+    "kelvin-to-fahrenheit": "^1.1.0",
+    "node-fetch": "^2.1.2"
+  }
+}
